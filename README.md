@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khayyamnoor
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me through snapchat: khayyamnor.94
 
